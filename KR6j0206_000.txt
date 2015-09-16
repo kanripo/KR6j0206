@@ -1,0 +1,4 @@
+#-*- mode: mandoku-view; -*-
+#+TITLE: 阿難陀目佉尼呵離陀經
+#+DATE: 2015-08-30 20:27:54.777490
+#+PROPERTY: JUAN 0
